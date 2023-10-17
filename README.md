@@ -1,6 +1,6 @@
 # fer-gx-multi-batch
 
-Validate multiple batches of data sources using Great Expectations Python Library.
+Validate multiple batches of an asset of a data source using Great Expectations Python Library.
 
 # Project context
 
